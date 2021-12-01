@@ -34,44 +34,64 @@ The code was developed with the full clock logic, but when I burn it to microcon
 
 In the moment that the circuit is de-energized, the clock loses its reference and the current time because it does not have a memory hardware implemented in circuit.
 
-However, if you need to store the last marked time, even with the circuit de-energized, you can use a RTC hardware and only read its time variables, than display it in the 7 Segments array. In other way, according to what I said during Binary Clock project (here in github.com/hollwe/binary-clock), I think that this kind of "upgrade" is not interesting to this kind of project because it makes you miss the essence of build a real clock, since thinking in clock logic, counters, timers, until software otimization and implementation. 
+However, if you need to store the last marked time, even with the circuit de-energized, you can use a RTC hardware and only read its time variables, than display it in the 7 Segments array. In other way, according to what I said during Binary Clock project, I think that this kind of "upgrade" is not interesting to this kind of project because it makes you miss the essence of build a real clock, since thinking in clock logic, counters, timers, until software otimization and implementation. 
 
 ##SWOT Analysis:
 
 ###Strenghts:
 
 1.It avilable in various colors ,so it looks attractive.
+
 2.It has long life.
+
 3.It provide suoerior readablity during tense.
+
 4.It can help people track the time with the help of a countdown timer.
 
 ###Weakness:
 1.Some of the 7 segment displays are limited to displaying the 16 hexadecimal characters.
+
 2. The display's internal structure is highly complex.
 
 ###Opportunities:
+
 1.It mainly used in digital clocks, electronics meter, and other electronic devices that display numerical imformation.
+
 2.Convenience
+
 3.Anonymity
+
 4.Spreading awareness
 
 ###Threats:
 1.Lack of evidence-based effectiveness.
+
 2.Acceptance & usablity issues.
+
 3.  Privacy/data secruity
 
 ##High Level Requirement:
+
 1.Atmega328p
+
 2.Board
+
 3.Display
+
 4.LED
+
 5.Aurdino
 
 ##Low Level Requirement:
+
 1.CAPACITOR
+
 2.RESISTOR
+
 3.BATTERY
+
 4.SOLDERING WIRE
+
 5.JUMPER WIRE
 
 
