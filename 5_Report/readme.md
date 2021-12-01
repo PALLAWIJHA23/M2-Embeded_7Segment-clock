@@ -18,6 +18,7 @@ The aim of the project is to design a twelve hour Digital Clock that displays th
 |4.Test plan| Documents with test plans and procedures|
 
 
+##Challenges Faced and How Was it Overcome
 
 
 ###NO. | ### Challenge| ### Solution|
