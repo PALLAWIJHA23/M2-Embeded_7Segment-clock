@@ -17,3 +17,10 @@ The aim of the project is to design a twelve hour Digital Clock that displays th
 
 |4.Test plan| Documents with test plans and procedures|
 
+
+
+
+###NO. | ### Challenge| ### Solution|
+
+|1.| Program crashes | writing clean code with allocating and dellocating memory at all functions as per requirement|
+
