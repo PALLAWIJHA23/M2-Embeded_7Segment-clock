@@ -28,6 +28,7 @@
 
 
 ##Working &Testing
+
 The working of this circuit is as follows. the 4 seven-segment LEDs comprise the hours and minutes dials of the clock while the 2 LEDs in the middle represent the second dial of the clock, blinking at every half a second. The operation of this clock is primarily dependent upon setting the appropriate clock cycle of the ATMega328p. In order to do that, connect two 22pF capacitors in parallel with a 16MHz crystal oscillator.
 
 
