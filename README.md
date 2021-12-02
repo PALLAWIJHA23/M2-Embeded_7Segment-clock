@@ -1,5 +1,5 @@
 # M2-Embeded_7Segment-clock
-##CI Badge
+## CI Badge
 [![CI](https://github.com/PALLAWIJHA23/M2-Embeded_7Segment-clock/actions/workflows/main.yml/badge.svg)](https://github.com/PALLAWIJHA23/M2-Embeded_7Segment-clock/actions/workflows/main.yml)
 
 ## Codacy Badge
