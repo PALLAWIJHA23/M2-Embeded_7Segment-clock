@@ -1,6 +1,4 @@
-################################################################################
-# Automatically-generated file. Do not edit!
-################################################################################
+
 
 SHELL := cmd.exe
 RM := rm -rf
@@ -126,4 +124,5 @@ clean:
 	-$(RM) $(OBJS_AS_ARGS) $(EXECUTABLES)  
 	-$(RM) $(C_DEPS_AS_ARGS)   
 	rm -rf "7-Segment-Clock-ATMEGA328P.elf" "7-Segment-Clock-ATMEGA328P.a" "7-Segment-Clock-ATMEGA328P.hex" "7-Segment-Clock-ATMEGA328P.lss" "7-Segment-Clock-ATMEGA328P.eep" "7-Segment-Clock-ATMEGA328P.map" "7-Segment-Clock-ATMEGA328P.srec" "7-Segment-Clock-ATMEGA328P.usersignatures"
+	
 	
