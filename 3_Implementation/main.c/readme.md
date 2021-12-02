@@ -1,10 +1,6 @@
 /*
  * 7-Segments-Display-ATMEGA328P.c
- *
- * Created: 29/11/2016 17:52:26
- * Author : Hollweg
- * Available on www.github.com/hollweg
- */ 
+ 
 
 #define F_CPU 16000000UL
 #define PORT_ON(port,pin) port |= (1<<pin)
